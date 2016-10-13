@@ -1,5 +1,5 @@
 # security
-* PHP application for display images ( and manage them ), 
+* PHP application for displaying images ( and manage them ), 
 which were uploaded to the FTP server from remote IP camera(s)
 
 * If you have IP-cameras, just activate FTP notifications about moving in front of it ( them ).
