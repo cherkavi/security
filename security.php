@@ -169,7 +169,12 @@
   data-nav="thumbs"
   data-width="500"
   data-ratio="500/367"
-  data-max-width="100%">
+  data-transition="crossfade"
+  data-max-width="100%"
+  data-thumbheight="120px"
+  data-thumbwidth="120px"
+  >
+      
   <?php
   $dir = opendir($photoFolder);
   $files = array();
